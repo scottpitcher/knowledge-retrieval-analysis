@@ -4,6 +4,9 @@ A tool designed to extract, connect, and analyze information from large, unstruc
 Leveraging NLP, knowledge graphs, and machine learning, the system allows users to search for entities, discover relationships, and receive insights through continuous model fine-tuning and feedback.
 The system integrates advanced tools like HuggingFace, ElasticSearch, AWS SageMaker, Neo4j, and active learning to create a responsive, scalable solution for complex information retrieval.
 
+**Technical Tools:** ElasticSearch, Hugging Face, PyTorch, Neo4j (Cypher), py2neo, GNNs, GDS, Flask/FastAPI, Docker
+**Skills:** NLP, NER, API Dev., Containerization
+
 ## Project Workflow
 
 - **Data Ingrestion/Indexing:** Collecting unstructed data (research articles). Utilising *ElasticSearch* for indexing, and development of *search API* for querying.
